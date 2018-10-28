@@ -8,6 +8,7 @@ import { StatusBar } from '@ionic-native/status-bar/ngx';
   selector: 'app-root',
   templateUrl: 'app.component.html'
 })
+// here is the components of the left side menu
 export class AppComponent {
   public appPage = [
     {
